@@ -1,0 +1,13 @@
+/home/sky/Workshop/solana-app/target/bpfel-unknown-unknown/release/deps/borsh-37d7720593779361.rmeta: /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/sky/Workshop/solana-app/target/bpfel-unknown-unknown/release/deps/libborsh-37d7720593779361.rlib: /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/sky/Workshop/solana-app/target/bpfel-unknown-unknown/release/deps/borsh-37d7720593779361.d: /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs /home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs
+
+/home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/lib.rs:
+/home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/mod.rs:
+/home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/de/hint.rs:
+/home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema.rs:
+/home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/schema_helpers.rs:
+/home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/mod.rs:
+/home/sky/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.1/src/ser/helpers.rs:
